@@ -23,7 +23,7 @@ describe("layout", () => {
     expect(l.frame.w).toBeLessThanOrEqual(390);
     expect(l.frame.h).toBeLessThanOrEqual(664);
     expect(l.frame.x).toBeCloseTo((390 - l.frame.w) / 2);
-    expect(l.scale).toBeCloseTo(664 / DESIGN_HEIGHT);
+    expect(l.scale).toBeCloseTo(Math.min(390 / DESIGN_WIDTH, 664 / DESIGN_HEIGHT));
   });
 
   it("letterboxes a wide desktop viewport and keeps the arena portrait", () => {

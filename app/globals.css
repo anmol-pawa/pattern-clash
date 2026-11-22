@@ -37,6 +37,14 @@ a {
   color: inherit;
 }
 
+/* Safari/WebKit gives form controls their own font; make every control use the page's. */
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

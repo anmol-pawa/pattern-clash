@@ -1,3 +1,4 @@
+import Link from "next/link";
 import index from "@/content/a2z-index.json";
 import { summarize, type IndexRow } from "@/lib/curriculum/summary";
 import styles from "./page.module.css";
@@ -61,11 +62,11 @@ export default function TitleScreen() {
       </dl>
 
       <div className={styles.actions}>
-        <button type="button" className={styles.play} disabled aria-describedby="soon">
+        <Link className={styles.play} href="/battle/pair-to-target" aria-describedby="soon">
           Battle
-        </button>
+        </Link>
         <p id="soon" className={styles.soon}>
-          First arena opens soon.
+          Practice battle: Pair to Target. The full arenas open soon.
         </p>
       </div>
     </main>
