@@ -56,7 +56,9 @@ export type BattleInput =
   | { type: "sample"; index: number; passed: boolean }
   | { type: "hidden"; group: HiddenGroup; passed: boolean; optimal: boolean }
   | { type: "component"; componentId: string; correct: boolean }
-  | { type: "followup"; index: number; correct: boolean };
+  | { type: "followup"; index: number; correct: boolean }
+  /** The player submitted: skip the rest of regulation (follow-ups, if any, start now). */
+  | { type: "finishRegulation" };
 
 export interface TimedInput {
   tick: number;

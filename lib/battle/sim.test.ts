@@ -227,6 +227,14 @@ describe("phases", () => {
     expect(s.followupsCorrect).toBe(1);
   });
 
+  it("finishing regulation early goes straight to overtime, or ends without follow-ups", () => {
+    const withFollowups = step(createBattle(makeConfig(), 1), [{ type: "finishRegulation" }]);
+    expect(withFollowups.phase).toBe("overtime");
+    expect(withFollowups.units).toEqual([]);
+    const without = step(createBattle(makeConfig({ followupCount: 0 }), 1), [{ type: "finishRegulation" }]);
+    expect(without.phase).toBe("ended");
+  });
+
   it("ignores follow-up answers during regulation", () => {
     const s = step(createBattle(makeConfig(), 1), [{ type: "followup", index: 0, correct: true }]);
     expect(s.followupsAnswered).toEqual([]);

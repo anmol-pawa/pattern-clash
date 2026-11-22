@@ -1,18 +1,12 @@
 "use client";
 
-import { useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { useEffect, useRef, useState } from "react";
+import { usePrefersReducedMotion } from "@/components/usePrefersReducedMotion";
 import { DEMO_CONFIG, demoScript, demoSeed } from "@/lib/arena/demo";
 import { advanceRunner, createRunner, type RunnerState } from "@/lib/arena/runner";
 import styles from "./page.module.css";
 
 const RESTART_AFTER_MS = 2500;
-const REDUCED_QUERY = "(prefers-reduced-motion: reduce)";
-
-function subscribeReduced(onChange: () => void): () => void {
-  const mq = window.matchMedia(REDUCED_QUERY);
-  mq.addEventListener("change", onChange);
-  return () => mq.removeEventListener("change", onChange);
-}
 
 function freshRunner(reducedMotion: boolean): RunnerState {
   const seed = demoSeed();
@@ -22,11 +16,7 @@ function freshRunner(reducedMotion: boolean): RunnerState {
 /** Review page for the arena renderer (ARCH §2 `/dev/*`): plays the scripted demo battle on a loop. */
 export default function DevSim() {
   const hostRef = useRef<HTMLDivElement>(null);
-  const systemReduced = useSyncExternalStore(
-    subscribeReduced,
-    () => window.matchMedia(REDUCED_QUERY).matches,
-    () => false,
-  );
+  const systemReduced = usePrefersReducedMotion();
   const [override, setOverride] = useState<boolean | null>(null);
   const [restarts, setRestarts] = useState(0);
   const isReduced = override ?? systemReduced;

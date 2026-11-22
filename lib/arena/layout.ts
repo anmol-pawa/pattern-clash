@@ -1,6 +1,6 @@
 /**
  * Portrait arena geometry (GDD §8). Pure: maps sim coordinates (lane + progress) to screen points for any viewport.
- * Everything is authored in a 390×700 design space and scaled uniformly, centred, so it reads at 375 px wide.
+ * Everything is authored in a 390×600 design space and scaled uniformly, centred, so it reads at 375 px wide.
  */
 import { LANE_LENGTH } from "@/lib/battle/constants";
 import type { Lane, TowerId } from "@/lib/battle/types";
@@ -29,13 +29,14 @@ export interface ArenaLayout {
 }
 
 export const DESIGN_WIDTH = 390;
-export const DESIGN_HEIGHT = 700;
+/** Kept short enough that the arena still reads at about half scale in the top ~45% of a phone screen. */
+export const DESIGN_HEIGHT = 600;
 
 const DESIGN = {
   laneX: { left: 100, right: 290 },
   enemyY: 196,
-  playerY: 640,
-  riverY: 418,
+  playerY: 548,
+  riverY: 372,
   towers: {
     left: { x: 100, y: 150, radius: 34 },
     right: { x: 290, y: 150, radius: 34 },

@@ -138,6 +138,9 @@ export function applyInput(state: BattleState, input: BattleInput): BattleState 
       return input.correct ? counter(state, input.componentId) : state;
     case "followup":
       return state;
+    case "finishRegulation":
+      // Land on the last regulation tick so this step's clock advance triggers the normal transition.
+      return { ...state, phaseTick: Math.max(state.phaseTick, REGULATION_TICKS - 1) };
   }
 }
 

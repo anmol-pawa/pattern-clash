@@ -12,7 +12,7 @@ test("title screen renders, fits the viewport and logs no errors", async ({ page
 
   await page.goto("/");
   await expect(page.getByRole("heading", { name: /pattern clash/i })).toBeVisible();
-  const play = page.getByRole("button", { name: "Battle" });
+  const play = page.getByRole("link", { name: "Battle" });
   await expect(play).toBeVisible();
 
   const overflow = await page.evaluate(

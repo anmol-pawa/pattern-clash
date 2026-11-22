@@ -14,6 +14,8 @@ import { COLORS, drawStatic, drawTower, drawUnit, formatClock } from "./draw";
 const TOWER_IDS: readonly TowerId[] = ["king", "left", "right"];
 const FONT: TextStyleOptions = { fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, sans-serif", fontWeight: "800" };
 const NO_OFFSET: Point = { x: 0, y: 0 };
+/** How far outside the arena frame the HUD may sit, in px. */
+const HUD_GUTTER = 140;
 const BURST_COLOR = { crown: COLORS.gold, counter: COLORS.cyan, leak: COLORS.magenta } as const;
 
 export class ArenaRenderer {
@@ -189,10 +191,12 @@ export class ArenaRenderer {
     const s = r.curr;
     const { crowns, outcome } = resultOf(s);
     this.crownsText.text = `Crowns ${crowns}/3`;
-    this.crownsText.position.set(frame.x + 12 * scale, frame.y + 10 * scale);
+    // Keep the HUD clear of the towers: beside the arena frame when there is room, else at the screen edges.
+    const hudY = frame.y + 10 * scale;
+    this.crownsText.position.set(Math.max(8, frame.x - HUD_GUTTER), hudY);
     const limit = s.phase === "overtime" ? OVERTIME_TICKS : REGULATION_TICKS;
     this.clockText.text = s.phase === "ended" ? "0:00" : formatClock((limit - s.phaseTick) / TICK_HZ);
-    this.clockText.position.set(frame.x + frame.w - 12 * scale, frame.y + 10 * scale);
+    this.clockText.position.set(Math.min(this.layout.width - 8, frame.x + frame.w + HUD_GUTTER), hudY);
     this.bannerText.position.set(frame.x + frame.w / 2, riverY);
     if (s.phase === "overtime") {
       this.bannerText.text = "OVERTIME";
