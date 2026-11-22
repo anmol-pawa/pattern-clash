@@ -1,0 +1,4552 @@
+[
+ {
+  "sheetNo": 1,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "User Input / Output",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 2,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Data Types",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 3,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "If Else statements",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 4,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Switch Statement",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 5,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "What are arrays, strings?",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 6,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "For loops",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 7,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "While loops",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 8,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Functions (Pass by Reference and Value)",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 9,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Time Complexity",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 10,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Patterns",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 11,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "C++ STL",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 12,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Java Collections",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 13,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Count Digits",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 14,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Reverse a Number",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 15,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Check Palindrome",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 16,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "GCD Or HCF",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 17,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Armstrong Numbers",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 18,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Print all Divisors",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 19,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Check for Prime",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 20,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Understand recursion by print something N times",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 21,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Print name N times using recursion",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 22,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Print 1 to N using recursion",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 23,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Print N to 1 using recursion",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 24,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Sum of first N numbers",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 25,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Factorial of N numbers",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 26,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Reverse an array",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 27,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Check if a string is palindrome or not",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 28,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Fibonacci Number",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 29,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Hashing Theory",
+  "kind": "lesson",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 30,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Counting frequencies of array elements",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 31,
+  "step": 1,
+  "stepTitle": "Learn the basics",
+  "sheetTitle": "Find the highest/lowest frequency element",
+  "kind": "problem",
+  "arena": 1,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 32,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Selection Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 33,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Bubble Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 34,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Insertion Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 35,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Merge Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 36,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Recursive Bubble Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 37,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Recursive Insertion Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 38,
+  "step": 2,
+  "stepTitle": "Learn Important Sorting Techniques",
+  "sheetTitle": "Quick Sort",
+  "kind": "problem",
+  "arena": 2,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 39,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Largest Element in an Array",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 40,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Second Largest Element in an Array without sorting",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 41,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Check if the array is sorted",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 42,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Remove duplicates from Sorted array",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 43,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Left Rotate an array by one place",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 44,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Left rotate an array by D places",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 45,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Move Zeros to end",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 46,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Linear Search",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 47,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Find the Union",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 48,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Find missing number in an array",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 49,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Maximum Consecutive Ones",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 50,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Find the number that appears once, and other numbers twice.",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 51,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Longest subarray with given sum K(positives)",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 52,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Longest subarray with sum K (Positives + Negatives)",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 53,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "2Sum Problem",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 54,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Sort an array of 0's 1's and 2's",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 55,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Majority Element (>n/2 times)",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 56,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Kadane's Algorithm, maximum subarray sum",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 57,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "subarray with maximum subarray sum (extended version)",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 58,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Stock Buy and Sell",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 59,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Rearrange the array in alternating positive and negative items",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 60,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Next Permutation",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 61,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Leaders in an Array problem",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 62,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Longest Consecutive Sequence in an Array",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 63,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Set Matrix Zeros",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 64,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Rotate Matrix by 90 degrees",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 65,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Print the matrix in spiral manner",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 66,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Count subarrays with given sum",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 67,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Pascal's Triangle",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 68,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Majority Element (n/3 times)",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 69,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "3-Sum Problem",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 70,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "4-Sum Problem",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 71,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Largest Subarray with 0 Sum",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 72,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Count number of subarrays with given xor K",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 73,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Merge Overlapping Subintervals",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 74,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Merge two sorted arrays without extra space",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 75,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Find the repeating and missing number",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 76,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Count Inversions",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 77,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Reverse Pairs",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 78,
+  "step": 3,
+  "stepTitle": "Arrays",
+  "sheetTitle": "Maximum Product Subarray",
+  "kind": "problem",
+  "arena": 3,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 79,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Binary Search to find X in sorted array",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 80,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Implement Lower Bound",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 81,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Implement Upper Bound",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 82,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Search Insert Position",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 83,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Floor/Ceil in Sorted Array",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 84,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find first or last occurrence of a given number in a sorted arr",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 85,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Count occurrences of a number in a sorted array with duplicates",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 86,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Search in Rotated Sorted Array I",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 87,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Search in Rotated Sorted Array II",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 88,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find minimum in Rotated Sorted Array",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 89,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find out how many times has an array been rotated",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 90,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Single element in a Sorted Array",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 91,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find peak element",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 92,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find square root of a number in log n",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 93,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find the Nth root of a number using binary search",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 94,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Koko Eating Bananas",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 95,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Minimum days to make M bouquets",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 96,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find the smallest Divisor",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 97,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Capacity to Ship Packages within D Days",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 98,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Kth Missing Positive Number",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 99,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Aggressive Cows",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 100,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Book Allocation Problem",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 101,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Split array - Largest Sum",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 102,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Painter's partition",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 103,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Minimize Max Distance to Gas Station",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 104,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Median of 2 sorted arrays",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 105,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Kth element of 2 sorted arrays",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 106,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find the row with maximum number of 1's",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 107,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Search in a 2 D matrix",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 108,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Search in a row and column wise sorted matrix",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 109,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Find Peak Element (2D Matrix)",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 110,
+  "step": 4,
+  "stepTitle": "Binary Search",
+  "sheetTitle": "Matrix Median",
+  "kind": "problem",
+  "arena": 4,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 111,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Remove outermost Paranthesis",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 112,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Reverse words in a given string / Palindrome Check",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 113,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Largest odd number in a string",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 114,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Longest Common Prefix",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 115,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Isomorphic String",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 116,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "check whether one string is a rotation of another",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 117,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Check if two strings are anagram of each other",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 118,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Sort Characters by frequency",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 119,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Maximum Nesting Depth of Paranthesis",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 120,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Roman Number to Integer and vice versa",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 121,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Implement Atoi",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 122,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Count Number of Substrings",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 123,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Longest Palindromic Substring[Do it without DP]",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 124,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Sum of Beauty of all substring",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 125,
+  "step": 5,
+  "stepTitle": "Strings",
+  "sheetTitle": "Reverse Every Word in A String",
+  "kind": "problem",
+  "arena": 5,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 126,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Introduction to LinkedList, learn about struct, and node",
+  "kind": "lesson",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 127,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Inserting a node in LinkedList",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 128,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Deleting a node in LinkedList",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 129,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Find the length of the linkedlist [learn traversal]",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 130,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Search an element in the LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 131,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Introduction to DLL, learn about struct, and node",
+  "kind": "lesson",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 132,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Insert a node in DLL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 133,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Delete a node in DLL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 134,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Reverse a DLL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 135,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Middle of a LinkedList [TortoiseHare Method]",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 136,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Reverse a LinkedList [Iterative]",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 137,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Reverse a LL [Recursive]",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 138,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Detect a loop in LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 139,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Find the starting point in LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 140,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Length of Loop in LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 141,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Check if LL is palindrome or not",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 142,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Segrregate odd and even nodes in LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 143,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Remove Nth node from the back of the LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 144,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Delete the middle node of LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 145,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Sort LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 146,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Sort a LL of 0's 1's and 2's by changing links",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 147,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Find the intersection point of Y LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 148,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Add 1 to a number represented by LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 149,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Add 2 numbers in LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 150,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Delete all occurrences of a key in DLL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 151,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Find pairs with given sum in DLL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 152,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Remove duplicates from sorted DLL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 153,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Reverse LL in group of given size K",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 154,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Rotate a LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 155,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Flattening of LL",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 156,
+  "step": 6,
+  "stepTitle": "LinkedList",
+  "sheetTitle": "Clone a Linked List with random and next pointer",
+  "kind": "problem",
+  "arena": 6,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 157,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Recursive Implementation of atoi()",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 158,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Pow(x, n)",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 159,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Count Good numbers",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 160,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Sort a stack using recursion",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 161,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Reverse a stack using recursion",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 162,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Generate all binary strings",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 163,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Generate Paranthesis",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 164,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Print all subsequences/Power Set",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 165,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Learn All Patterns of Subsequences (Theory)",
+  "kind": "lesson",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 166,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Count all subsequences with sum K",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 167,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Check if there exists a subsequence with sum K",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 168,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Combination Sum",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 169,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Combination Sum-II",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 170,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Subset Sum-I",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 171,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Subset Sum-II",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 172,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Combination Sum - III",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 173,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Letter Combinations of a Phone number",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 174,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Palindrome Partitioning",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 175,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Word Search",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 176,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "N Queen",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 177,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Rat in a Maze",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 178,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Word Break",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 179,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "M Coloring Problem",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 180,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Sudoko Solver",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 181,
+  "step": 7,
+  "stepTitle": "Recursion",
+  "sheetTitle": "Expression Add Operators",
+  "kind": "problem",
+  "arena": 7,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 182,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Introduction to Bit Manipulation [Theory]",
+  "kind": "lesson",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 183,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Check if the i-th bit is set or not",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 184,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Check if a number is odd or not",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 185,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Check if a number is power of 2 or not",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 186,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Count the number of set bits",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 187,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Set/Unset the rightmost unset bit",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 188,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Swap two numbers",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 189,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Divide two integers w/o using multiplication, division and mod",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 190,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Count number of bits to be flipped to convert A to B",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 191,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Find the number that appears odd number of times",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 192,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Power Set",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 193,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Find xor of numbers from L to R",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 194,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Find the two numbers appearing odd number of times",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 195,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Print Prime Factors of a Number",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 196,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "All Divisors of a Number",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 197,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Sieve of Eratosthenes",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 198,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Find Prime Factorisation of a Number using Sieve",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 199,
+  "step": 8,
+  "stepTitle": "Bit Manipulation",
+  "sheetTitle": "Power(n, x)",
+  "kind": "problem",
+  "arena": 8,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 200,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement Stack using Arrays",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 201,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement Queue using Arrays",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 202,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement Stack using Queue",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 203,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement Queue using Stack",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 204,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement stack using Linkedlist",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 205,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement queue using Linkedlist",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 206,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Check for balanced paranthesis",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 207,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Implement Min Stack",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 208,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Infix to Postfix Conversion using Stack",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 209,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Prefix to Infix Conversion",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 210,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Prefix to Postfix Conversion",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 211,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Postfix to Prefix Conversion",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 212,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Postfix to Infix",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 213,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Convert Infix To Prefix Notation",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 214,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Next Greater Element",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 215,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Next Greater Element 2",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 216,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Next Smaller Element",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 217,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Number of NGEs to the right",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 218,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Trapping Rainwater",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 219,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Sum of subarray minimum",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 220,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Asteroid Collision",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 221,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Sum of subarray ranges",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 222,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Remove k Digits",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 223,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Largest rectangle in a histogram",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 224,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Maximal Rectangles",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 225,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Sliding Window maximum",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 226,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "Stock span problem",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 227,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "The Celebrity Problem",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 228,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "LRU cache (IMPORTANT)",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 229,
+  "step": 9,
+  "stepTitle": "Stack and Queues",
+  "sheetTitle": "LFU cache",
+  "kind": "problem",
+  "arena": 9,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 230,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Longest Substring Without Repeating Characters",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 231,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Max Consecutive Ones III",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 232,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Fruit Into Baskets",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 233,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "longest repeating character replacement",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 234,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Binary subarray with sum",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 235,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Count number of nice subarrays",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 236,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Number of substring containing all three characters",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 237,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Maximum point you can obtain from cards",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 238,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Longest Substring with At Most K Distinct Characters",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 239,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Subarray with k different integers",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 240,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Minimum Window Substring",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 241,
+  "step": 10,
+  "stepTitle": "Sliding Window & Two Pointer Combined Problems",
+  "sheetTitle": "Minimum Window Subsequence",
+  "kind": "problem",
+  "arena": 10,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 242,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Introduction to Priority Queues using Binary Heaps",
+  "kind": "lesson",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 243,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Min Heap and Max Heap Implementation",
+  "kind": "lesson",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 244,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Check if an array represents a min-heap or not",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 245,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Convert min Heap to max Heap",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 246,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Kth largest element in an array [use priority queue]",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 247,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Kth smallest element in an array [use priority queue]",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 248,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Sort K sorted array",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 249,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Merge M sorted Lists",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 250,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Replace each array element by its corresponding rank",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 251,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Task Scheduler",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 252,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Hands of Straights",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 253,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Design twitter",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 254,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Connect `n` ropes with minimal cost",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 255,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Kth largest element in a stream of running integers",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 256,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Maximum Sum Combination",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 257,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "Find Median from Data Stream",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 258,
+  "step": 11,
+  "stepTitle": "Heaps",
+  "sheetTitle": "K most frequent elements",
+  "kind": "problem",
+  "arena": 11,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 259,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Assign Cookies",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 260,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Fractional Knapsack Problem",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 261,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Greedy algorithm to find minimum number of coins",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 262,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Lemonade Change",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 263,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Valid Paranthesis Checker",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 264,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "N meetings in one room",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 265,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Jump Game",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 266,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Jump Game 2",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 267,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Minimum number of platforms required for a railway",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 268,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Job sequencing Problem",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 269,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Candy",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 270,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Program for Shortest Job First (or SJF) CPU Scheduling",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 271,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Program for LRU Page Replacement Algorithm",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 272,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Insert Interval",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 273,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Merge Intervals",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 274,
+  "step": 12,
+  "stepTitle": "Greedy Algorithms",
+  "sheetTitle": "Non-overlapping Intervals",
+  "kind": "problem",
+  "arena": 12,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 275,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Introduction to Trees",
+  "kind": "lesson",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 276,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Binary Tree Representation in C++",
+  "kind": "lesson",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 277,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Binary Tree Representation in Java",
+  "kind": "lesson",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 278,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Binary Tree Traversals in Binary Tree",
+  "kind": "lesson",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 279,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Preorder Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 280,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Inorder Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 281,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Post-order Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 282,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Level order Traversal / Level order traversal in spiral form",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 283,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Iterative Preorder Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 284,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Iterative Inorder Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 285,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Post-order Traversal of Binary Tree using 2 stack",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 286,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Post-order Traversal of Binary Tree using 1 stack",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 287,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 288,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Height of a Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 289,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Check if the Binary tree is height-balanced or not",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 290,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Diameter of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 291,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Maximum path sum",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 292,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Check if two trees are identical or not",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 293,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Zig Zag Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 294,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Boundary Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 295,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Vertical Order Traversal of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 296,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Top View of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 297,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Bottom View of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 298,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Right/Left View of Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 299,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Symmetric Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 300,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Root to Node Path in Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 301,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "LCA in Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 302,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Maximum width of a Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 303,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Check for Children Sum Property",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 304,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Print all the Nodes at a distance of K in a Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 305,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Minimum time taken to BURN the Binary Tree from a Node",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 306,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Count total Nodes in a COMPLETE Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 307,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Requirements needed to construct a Unique Binary Tree | Theory",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 308,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Construct Binary Tree from inorder and preorder",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 309,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Construct the Binary Tree from Postorder and Inorder Traversal",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 310,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Serialize and deserialize Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 311,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Morris Preorder Traversal of a Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 312,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Morris Inorder Traversal of a Binary Tree",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 313,
+  "step": 13,
+  "stepTitle": "Binary Trees",
+  "sheetTitle": "Flatten Binary Tree to LinkedList",
+  "kind": "problem",
+  "arena": 13,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 314,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Introduction to Binary Search Tree",
+  "kind": "lesson",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 315,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Search in a Binary Search Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 316,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Find Min/Max in BST",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 317,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Ceil in a Binary Search Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 318,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Floor in a Binary Search Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 319,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Insert a given Node in Binary Search Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 320,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Delete a Node in Binary Search Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 321,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Find K-th smallest/largest element in BST",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 322,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Check if a tree is a BST or BT",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 323,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "LCA in Binary Search Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 324,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Construct a BST from a preorder traversal",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 325,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Inorder Successor/Predecessor in BST",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 326,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Merge 2 BST's",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 327,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Two Sum In BST | Check if there exists a pair with Sum K",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 328,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Recover BST | Correct BST with two nodes swapped",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 329,
+  "step": 14,
+  "stepTitle": "Binary Search Trees",
+  "sheetTitle": "Largest BST in Binary Tree",
+  "kind": "problem",
+  "arena": 14,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 330,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Graph and Types",
+  "kind": "lesson",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 331,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Graph Representation | C++",
+  "kind": "lesson",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 332,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Graph Representation | Java",
+  "kind": "lesson",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 333,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Connected Components | Logic Explanation",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 334,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "BFS",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 335,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "DFS",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 336,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Number of provinces (leetcode)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 337,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Connected Components Problem in Matrix",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 338,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Rotten Oranges",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 339,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Flood fill",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 340,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Cycle Detection in unirected Graph (bfs)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 341,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Cycle Detection in undirected Graph (dfs)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 342,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "0/1 Matrix (Bfs Problem)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 343,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Surrounded Regions (dfs)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 344,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Number of Enclaves [flood fill implementation - multisource]",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 345,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Word ladder - 1",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 346,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Word ladder - 2",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 347,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Number of Distinct Islands [dfs multisource]",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 348,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Bipartite Graph (DFS)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 349,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Cycle Detection in Directed Graph (DFS)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 350,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Topo Sort",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 351,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Kahn's Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 352,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Cycle Detection in Directed Graph (BFS)",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 353,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Course Schedule - I",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 354,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Course Schedule - II",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 355,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Find eventual safe states",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 356,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Alien dictionary",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 357,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Shortest Path in UG with unit weights",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 358,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Shortest Path in DAG",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 359,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Djisktra's Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 360,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Why priority Queue is used in Djisktra's Algorithm",
+  "kind": "lesson",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 361,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Shortest path in a binary maze",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 362,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Path with minimum effort",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 363,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Cheapest flights within k stops",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 364,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Network Delay time",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 365,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Number of ways to arrive at destination",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 366,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Minimum steps to reach end",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 367,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Bellman Ford Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 368,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Floyd Warshal Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 369,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Find city with minimum neighbors in a threshold distance",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 370,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Minimum Spanning Tree",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 371,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Prim's Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 372,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Disjoint Set [Union by Rank]",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 373,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Disjoint Set [Union by Size]",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 374,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Kruskal's Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 375,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Number of operations to make network connected",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 376,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Most stones removed with same rows or columns",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 377,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Accounts merge",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 378,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Number of island II",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 379,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Making a Large Island",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 380,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Swim in rising water",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 381,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Bridges in Graph",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 382,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Articulation Point",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 383,
+  "step": 15,
+  "stepTitle": "Graphs",
+  "sheetTitle": "Kosaraju's Algorithm",
+  "kind": "problem",
+  "arena": 15,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 384,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Dynamic Programming Introduction",
+  "kind": "lesson",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 385,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Climbing Stars",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 386,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Frog Jump(DP-3)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 387,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Frog Jump with k distances(DP-4)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 388,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Maximum sum of non-adjacent elements (DP 5)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 389,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "House Robber (DP 6)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 390,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Ninja's Training (DP 7)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 391,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Grid Unique Paths : DP on Grids (DP8)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 392,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Grid Unique Paths 2 (DP 9)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 393,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum path sum in Grid (DP 10)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 394,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum path sum in Triangular Grid (DP 11)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 395,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum/Maximum Falling Path Sum (DP-12)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 396,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "3-d DP : Ninja and his friends (DP-13)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 397,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Subset sum equal to target (DP- 14)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 398,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Partition Equal Subset Sum (DP- 15)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 399,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 400,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Count Subsets with Sum K (DP - 17)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 401,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Count Partitions with Given Difference (DP - 18)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 402,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Assign Cookies",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 403,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum Coins (DP - 20)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 404,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Target Sum (DP - 21)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 405,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Coin Change 2 (DP - 22)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 406,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Unbounded Knapsack (DP - 23)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 407,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Rod Cutting Problem | (DP - 24)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 408,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest Common Subsequence | (DP - 25)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 409,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Print Longest Common Subsequence | (DP - 26)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 410,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest Common Substring | (DP - 27)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 411,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest Palindromic Subsequence | (DP-28)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 412,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum insertions to make string palindrome | DP-29",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 413,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum Insertions/Deletions to Convert String | (DP- 30)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 414,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Shortest Common Supersequence | (DP - 31)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 415,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Distinct Subsequences| (DP-32)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 416,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Edit Distance | (DP-33)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 417,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Wildcard Matching | (DP-34)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 418,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Best Time to Buy and Sell Stock |(DP-35)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 419,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Buy and Sell Stock - II|(DP-36)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 420,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Buy and Sell Stocks III|(DP-37)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 421,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Buy and Stock Sell IV |(DP-38)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 422,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Buy and Sell Stocks With Cooldown|(DP-39)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 423,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Buy and Sell Stocks With Transaction Fee|(DP-40)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 424,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest Increasing Subsequence |(DP-41)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 425,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Printing Longest Increasing Subsequence|(DP-42)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 426,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest Increasing Subsequence |(DP-43)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 427,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Largest Divisible Subset|(DP-44)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 428,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest String Chain|(DP-45)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 429,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Longest Bitonic Subsequence |(DP-46)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 430,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Number of Longest Increasing Subsequences|(DP-47)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 431,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Matrix Chain Multiplication|(DP-48)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 432,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 433,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Minimum Cost to Cut the Stick|(DP-50)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 434,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Burst Balloons|(DP-51)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 435,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Evaluate Boolean Expression to True|(DP-52)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 436,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Palindrome Partitioning - II|(DP-53)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 437,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Partition Array for Maximum Sum|(DP-54)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 438,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Maximum Rectangle Area with all 1's|(DP-55)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 439,
+  "step": 16,
+  "stepTitle": "Dynamic Programming",
+  "sheetTitle": "Count Square Submatrices with All Ones|(DP-56)",
+  "kind": "problem",
+  "arena": 16,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 440,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Implement TRIE | INSERT | SEARCH | STARTSWITH",
+  "kind": "problem",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 441,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Implement Trie - 2 (Prefix Tree)",
+  "kind": "problem",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 442,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Longest String with All Prefixes",
+  "kind": "problem",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 443,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Number of Distinct Substrings in a String",
+  "kind": "problem",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 444,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Bit PreRequisites for TRIE Problems",
+  "kind": "lesson",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 445,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Maximum XOR of two numbers in an array",
+  "kind": "problem",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 446,
+  "step": 17,
+  "stepTitle": "Tries",
+  "sheetTitle": "Maximum XOR With an Element From Array",
+  "kind": "problem",
+  "arena": 17,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 447,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "min number of bracket reversals to make an expression balanced",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 448,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Count and say",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 449,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Hashing In Strings | Theory",
+  "kind": "lesson",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 450,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Rabin Karp",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 451,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Z-Function",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 452,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "KMP algo / LPS(pi) array",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 453,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Shortest Palindrome",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 454,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Longest happy prefix",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ },
+ {
+  "sheetNo": 455,
+  "step": 18,
+  "stepTitle": "Strings",
+  "sheetTitle": "Count palindromic subsequence in given string",
+  "kind": "problem",
+  "arena": 18,
+  "slug": null,
+  "status": "todo"
+ }
+]
