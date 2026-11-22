@@ -1,0 +1,41 @@
+# --- Local-only docs and assistant files (owner rule: never tracked or pushed) ---
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+ROADMAP.md
+PROGRESS.md
+docs/**/*.md
+.claude/
+.routine/
+# Game content .md under content/ IS tracked (statements, hints, editorials ship with the app).
+
+# --- Dependencies and builds ---
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# --- Toolchain and caches (installed via npm, copied at build time) ---
+public/toolchain/
+.cache/
+.content-cache/
+
+# --- Tests ---
+test-results/
+playwright-report/
+blob-report/
+
+# --- Env and secrets ---
+.env
+.env.*
+!.env.example
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*.log
+.vercel
