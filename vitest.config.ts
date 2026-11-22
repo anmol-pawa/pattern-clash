@@ -8,5 +8,7 @@ export default defineConfig({
   test: {
     include: ["lib/**/*.test.ts", "scripts/**/*.test.ts"],
     environment: "node",
+    // Judge tests compile real C++ with native g++/clang++ (several binaries per test on Windows).
+    testTimeout: 60_000,
   },
 });
