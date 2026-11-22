@@ -7,10 +7,12 @@
     "node": ">=20.9"
   },
   "scripts": {
+    "predev": "node scripts/copy-toolchain.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/copy-toolchain.mjs",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
+    "lint": "eslint --ignore-pattern \"public/toolchain/**\"",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
@@ -20,6 +22,7 @@
   "dependencies": {
     "@vercel/analytics": "2.0.1",
     "@vercel/speed-insights": "2.1.0",
+    "@yowasp/clang": "22.0.0-git20695-13",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0"
